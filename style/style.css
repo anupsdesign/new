@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+}
+.s1{
+    background-image: url(../images/1.jpg);
+    background-size: cover;
+    background-position: right;
+}
+.s2{
+    background-image: url(../images/2.jpg);
+    background-size: cover;
+    background-position: right;
+}
+.s3{
+    background-image: url(../images/3.jpg);
+    background-size: cover;
+    background-position: right;
+}
+.s4{
+    background-image: url(../images/4.jpg);
+    background-size: cover;
+    background-position: right;
+}
